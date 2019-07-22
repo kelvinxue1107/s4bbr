@@ -1,0 +1,4 @@
+Dockerfile from the Ubuntu 19:10
+Default bbr already has been turned on by OS publisher.
+Clean install on shadowsocks
+Password could be refered from command line on SS
